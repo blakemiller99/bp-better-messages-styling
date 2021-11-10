@@ -1,0 +1,93 @@
+/* Front End List & Tabs Styling */
+.bp-better-messages-list {
+	width:345px; 
+	right:40px;
+}
+
+.bp-better-messages-list .tabs {
+	font-size:15px;
+	height:38px;
+	line-height: 40px;
+}
+
+.bp-messages-wrap .chat-footer>a {
+	font-size:15px
+}
+
+.bp-messages-wrap .threads-list .thread .info .name {
+	font-size: 15px;
+}
+
+.bp-messages-wrap .threads-list .thread .info h4 {
+	font-size: 14px;
+}
+
+.bp-messages-wrap .threads-list .thread .info p {
+	font-size: 14px;
+}
+
+.bp-messages-wrap .threads-list .thread .info .name+h4 {
+	font-size:13px;
+}
+
+.bp-better-messages-mini .chats .chat .head {
+	font-size: 15px;
+}
+
+.bp-better-messages-mini .chats .chat .head {
+	height:40px;
+}
+.bp-better-messages-mini .chats .chat .head .controls>div {
+	font-size:15px;
+}
+.bp-better-messages-mini .chats .chat .head .controls .video-call i {
+	font-size: 14px;
+}
+
+.bp-better-messages-mini .chats .chat .head .controls .audio-call i {
+	font-size: 13px;
+}
+
+.bp-better-messages-mini .chats .chat .head .controls span.open i {
+	font-size:13px;
+}
+
+.bp-better-messages-mini .chats .chat .head .controls>span {
+	font-size:15px;
+}
+
+/* In Profile message thread window */
+.bp-messages-wrap .chat-header, .bp-messages-wrap .reply {
+	background:#f5f5f5;
+	height:50px;
+}
+
+.bp-messages-wrap .chat-header>a {
+	font-size: 17px;
+}
+
+.bp-messages-wrap .chat-header span.avatar {
+	margin-right:10px !important;
+}
+
+.bp-messages-wrap .chat-header .user {
+	font-size:17px;
+	vertical-align: middle;
+}
+
+.bp-messages-wrap .chat-header .avatar {
+	width:23px;
+	height:23px;
+}
+
+.bp-messages-wrap .list .messages-stack .content .info .time {
+	font-size:13px;
+}
+
+.bp-messages-wrap .list .messages-stack .content .info .name a {
+	font-size:14px;
+}
+
+.bp-messages-wrap .list .messages-stack .content .info .name {
+	margin-bottom:3px;
+}
